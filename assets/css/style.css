@@ -112,6 +112,16 @@ button {
     margin-left: 10px;
 }
 
+.view-all {
+    float: right;
+    margin-bottom: 4%;
+    margin-top: 1%
+}
+
+.view-all-button {
+    font-size: 125%;
+}
+
 /* ------------------------------------------------------------------------------------- Images */
 
 .image-container {
@@ -131,6 +141,7 @@ img {
 .newsletter {
     margin-top: 3%;
     margin-bottom: 3%;
+    clear: both;
 }
 
 .input-newsletter {
