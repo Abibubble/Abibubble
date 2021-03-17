@@ -52,12 +52,13 @@ header {
     top: 0;
     left: 0;
     padding: 15px;
-    text-align: left;
+    text-align: center;
     color: #fff;
 }
 
 .navbar {
     font-size: 100%;
+    justify-content: space-around;
 }
 
 .navlink {
@@ -160,4 +161,6 @@ footer {
     background-color: #000;
     color: #fff;
     padding: 10px;
+    height: fit-content;
+    justify-content: space-around;
 }
