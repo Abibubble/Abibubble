@@ -22,8 +22,15 @@ body {
 /* ------------------------------------------------------------------------------------- Header */
 
 header {
-    height: 82vh;
     align-content: center;
+}
+
+.index-header {
+    height: 82vh;
+}
+
+.products-header {
+    height: 6vh;
 }
 
 .header-container {
