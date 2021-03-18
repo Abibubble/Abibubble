@@ -101,10 +101,7 @@ p {
     width: 90%;
     grid-template-columns: repeat(3, 1fr);
     margin: auto;
-}
-
-figure {
-    margin-bottom: 3%;
+    gap: 3%;
 }
 
 button {
@@ -117,8 +114,7 @@ button {
 
 .view-all {
     float: right;
-    margin-bottom: 4%;
-    margin-top: 1%
+    margin-top: 5%
 }
 
 .view-all-button {
@@ -142,7 +138,7 @@ img {
 /* ------------------------------------------------------------------------------------- Newsletter */
 
 .newsletter {
-    margin-top: 3%;
+    margin-top: 12%;
     margin-bottom: 3%;
     clear: both;
 }
@@ -165,4 +161,11 @@ footer {
     padding: 10px;
     height: fit-content;
     justify-content: space-around;
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.privacy {
+    margin: auto;
 }
