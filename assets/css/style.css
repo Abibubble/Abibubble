@@ -121,6 +121,14 @@ button {
     font-size: 125%;
 }
 
+.product-grid {
+    margin: auto;
+    width: 60%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
 /* ------------------------------------------------------------------------------------- Images */
 
 .image-container {
