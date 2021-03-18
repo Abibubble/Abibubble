@@ -96,16 +96,11 @@ p {
     margin-bottom: 2%;
 }
 
-.column {
-  float: left;
-  width: 32%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.grid {
+    display: grid;
+    width: 90%;
+    grid-template-columns: repeat(3, 1fr);
+    margin: auto;
 }
 
 figure {
