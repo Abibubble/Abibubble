@@ -63,16 +63,6 @@ header {
     color: #fff;
 }
 
-.navbar {
-    font-size: 100%;
-    justify-content: space-around;
-}
-
-.navlink {
-    text-decoration: none;
-    color: #fff;
-}
-
 h1 {
     font-size: 400%;
 }
@@ -104,21 +94,9 @@ p {
     gap: 3%;
 }
 
-button {
-    background-color: #000;
-    color: #fff;
-    padding: 5px;
-    border-radius: 5px;
-    margin-left: 10px;
-}
-
 .view-all {
     float: right;
     margin-top: 5%
-}
-
-.view-all-button {
-    font-size: 125%;
 }
 
 .product-grid {
@@ -133,45 +111,16 @@ button {
     margin: auto;
 }
 
-/* ------------------------------------------------------------------------------------- Images */
-
-.image-container {
-    width: 94%;
-    margin: auto;
-}
-
-img {
-    width: 80%;
-    margin: 10px;
-    border: 1px solid #000;
-    border-radius: 10px;
-}
-
-/* ------------------------------------------------------------------------------------- Newsletter */
-
-.newsletter {
-    margin-top: 10%;
+.product-title {
+    margin-top: 3%;
     margin-bottom: 3%;
-    clear: both;
 }
 
-.input-newsletter {
-    font-size: 150%;
-}
-
-.input-newsletter input {
-    padding: 10px;
-    border-radius: 10px;
-    margin-left: 2%;
-}
-
-.email-input {
-    width: 20%;
-}
-
-.submit-button {
-    margin-top: 1%;
-    width: 10%;
+.grid-cols {
+    width: 50%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
 }
 
 /* ------------------------------------------------------------------------------------- Footer */

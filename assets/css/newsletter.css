@@ -1,0 +1,26 @@
+/* ------------------------------------------------------------------------------------- Newsletter */
+
+.newsletter {
+    margin-top: 10%;
+    margin-bottom: 3%;
+    clear: both;
+}
+
+.input-newsletter {
+    font-size: 150%;
+}
+
+.input-newsletter input {
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 2%;
+}
+
+.email-input {
+    width: 20%;
+}
+
+.submit-button {
+    margin-top: 1%;
+    width: 10%;
+}

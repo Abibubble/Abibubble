@@ -1,0 +1,11 @@
+/* ------------------------------------------------------------------------------------- Navbar */
+
+.navbar {
+    font-size: 100%;
+    justify-content: space-around;
+}
+
+.navlink {
+    text-decoration: none;
+    color: #fff;
+}
