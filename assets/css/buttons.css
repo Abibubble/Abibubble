@@ -1,0 +1,16 @@
+button {
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.view-all-button {
+    font-size: 125%;
+}
+
+.add-cart-button {
+    width: 100px;
+    height: fit-content;
+}
