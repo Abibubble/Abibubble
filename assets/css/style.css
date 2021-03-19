@@ -129,6 +129,10 @@ button {
     gap: 10px;
 }
 
+.centered {
+    margin: auto;
+}
+
 /* ------------------------------------------------------------------------------------- Images */
 
 .image-container {
@@ -146,7 +150,7 @@ img {
 /* ------------------------------------------------------------------------------------- Newsletter */
 
 .newsletter {
-    margin-top: 12%;
+    margin-top: 10%;
     margin-bottom: 3%;
     clear: both;
 }
@@ -159,6 +163,15 @@ img {
     padding: 10px;
     border-radius: 10px;
     margin-left: 2%;
+}
+
+.email-input {
+    width: 20%;
+}
+
+.submit-button {
+    margin-top: 1%;
+    width: 10%;
 }
 
 /* ------------------------------------------------------------------------------------- Footer */
