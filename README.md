@@ -86,7 +86,7 @@ WHAT I WANTED FROM THIS PROJECT
 * WHAT IMAGES ARE USED AND WHY
 
 ### Wireframes
-[Here are the wireframes for desktop, mobile and tablet for this project](wireframes.pdf).
+[Here are the wireframes for desktop, mobile and tablet for this project](assets/docs/wireframes.pdf).
 
 ### Features
 * WHAT FEATURES ARE ONE THE SITE, LIKE SCOREBOARD, FUNCTIONS, SCROLLING ALERT BAR, ETC.
