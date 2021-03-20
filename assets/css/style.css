@@ -94,6 +94,22 @@ p {
     gap: 3%;
 }
 
+.cart-grid {
+    width: 60%;
+}
+
+span {
+    align-self: center;
+}
+
+.cart-headers {
+    margin-bottom: 10%;
+}
+
+.cart-price {
+    margin-top: 10%;
+}
+
 .view-all {
     float: right;
     margin-top: 5%
