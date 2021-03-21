@@ -73,10 +73,12 @@ The initial conversation for this site was a request for a clean, simple, beauti
 * Easy to purchase, no unnecessary steps.
 
 #### Returning Visitor Goals
-* LIKE REPLAYABILITY, WHY THEY WANT TO RETURN TO THE SITE, EXTRA FEATURES
+* Easy to browse specific categories.
+* Easy to find delivery costs.
 
 #### Frequent Visitor Goals
-* WHY SOMEONE WOULD COME BACK REPEATEDLY, AND WHAT THEY'D WANT, LIKE EASY TO BOOK SOMETHING, OR A SCOREBOARD, ETC.
+* Recommended products.
+* Easy to find contact details for queries.
 
 ---
 ## Design
