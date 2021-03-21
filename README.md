@@ -68,7 +68,9 @@ The initial conversation for this site was a request for a clean, simple, beauti
 * Clean and beautiful rustic-looking site.
 
 #### First Time Visitor Goals
-* WHAT A FIRST TIME VISITOR WANTS, LIKE EASY TO UNDERSTAND, EASY TO NAVIGATE
+* Easy to navigate.
+* Easy to find a specific product.
+* Easy to purchase, no unnecessary steps.
 
 #### Returning Visitor Goals
 * LIKE REPLAYABILITY, WHY THEY WANT TO RETURN TO THE SITE, EXTRA FEATURES
