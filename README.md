@@ -59,11 +59,11 @@ It is a rustic styled site, with a clean and straightforward look.
 ---
 ## User Experience (UX)
 ### Initial Discussion
-WHAT I WANTED FROM THIS PROJECT
+The initial conversation for this site was a request for a clean, simple, beautiful ecommerce site with top performance and good SEO.
 
 ### User Stories
 #### Client Goals
-* WHAT THE CLIENT WANTS, NOT THE USER
+* 
 
 #### First Time Visitor Goals
 * WHAT A FIRST TIME VISITOR WANTS, LIKE EASY TO UNDERSTAND, EASY TO NAVIGATE
