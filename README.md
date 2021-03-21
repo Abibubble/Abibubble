@@ -63,7 +63,9 @@ The initial conversation for this site was a request for a clean, simple, beauti
 
 ### User Stories
 #### Client Goals
-* 
+* Easy to navigate.
+* Fast route to buy now to maximise profits.
+* Clean and beautiful rustic-looking site.
 
 #### First Time Visitor Goals
 * WHAT A FIRST TIME VISITOR WANTS, LIKE EASY TO UNDERSTAND, EASY TO NAVIGATE
