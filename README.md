@@ -92,6 +92,7 @@ WHAT I WANTED FROM THIS PROJECT
 [Here are the wireframes for desktop, mobile and tablet for this project](assets/docs/wireframes.pdf).
 
 ### Features
+* Responsive navigation bar
 * WHAT FEATURES ARE ONE THE SITE, LIKE SCOREBOARD, FUNCTIONS, SCROLLING ALERT BAR, ETC.
 ---
 
@@ -121,13 +122,11 @@ Google DevTools was used to help me find what code correlated to what feature.
 #### Autoprefixer CSS online
 [Autoprefixer CSS online](https://autoprefixer.github.io/) was used to ensure all prefixes for browsers were included correctly.
 
-BOOTSTRAP, JASMINE TESTING, JQUERY, ETC. USED?
-
 ## Deployment
 ### Initial Deployment
 This site was deployed to GitHub Pages by following these steps:
 1. Login or Sign Up to [GitHub](www.github.com).
-2. Create a new repository named "REPO".
+2. Create a new repository named "rodan".
 3. Once created, click on "Settings" on the navigation bar under the repository title.
 4. Scroll down to "GitHub Pages".
 5. Under "Source", choose which branch to deploy. I chose "master", but this is sometimes shown as "main".
@@ -137,12 +136,12 @@ This site was deployed to GitHub Pages by following these steps:
 
 ### How to Fork it
 1. Login or Sign Up to [GitHub](www.github.com).
-2. On GitHub, go to [Abibubble/REPO](https://github.com/Abibubble/REPO).
+2. On GitHub, go to [Abibubble/rodan](https://github.com/Abibubble/rodan).
 3. In the top right, click "Fork".
 
 ### How to Clone it
 1. Login or Sign Up to [GitHub](www.github.com).
-2. Fork the repository Abibubble/REPO using the steps above in [How to Fork it](#how-to-fork-it).
+2. Fork the repository Abibubble/rodan using the steps above in [How to Fork it](#how-to-fork-it).
 3. Above the file list, click "Code".
 4. Choose if you want to clone using HTTPS, SSH, or GitHub CLI, then click the copy button to the right.
 5. Open Git Bash.
@@ -151,7 +150,7 @@ This site was deployed to GitHub Pages by following these steps:
 8. Press Enter to create your clone.
 
 ### Making a Local Clone
-1. Log in to [GitHub](www.github.com) and locate the [Repository](https://github.com/Abibubble/cv) for this site.
+1. Log in to [GitHub](www.github.com) and locate the [Repository](https://github.com/Abibubble/rodan) for this site.
 2. Under the repository name, above the list of files, click "Code".
 3. Here you can either Clone or Download the repository.
 4. You should clone the repository using HTTPS, clicking on the icon to copy the link.
@@ -195,37 +194,37 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 * HOW THE SITE COMPLETEES EACH GOAL
 
 ### Full Testing
-[Click here](testing.md) to view the full testing steps that were completed on every device and browser, and screenshots of testing.
+[Click here](assets/docs/testing.md) to view the full testing steps that were completed on every device and browser, and screenshots of testing.
 
 #### Desktop / Laptop
 1. Google Chrome
     * All tested and working correctly.
 
 2. Microsoft Edge
-    * 
+    * All tested and working correctly.
 
 3. Mozilla Firefox
-    * 
+    * All tested and working correctly.
 
 4. Internet Explorer
-    * 
+    * All tested and working correctly.
 
 5. Safari
-    * 
+    * All tested and working correctly.
 
 #### Tablet
 1. Safari
-    * 
+    * All tested and working correctly.
 
 #### Mobile
 1. Google Chrome
-    * 
+    * All tested and working correctly.
 
 2. Safari
-    * 
+    * All tested and working correctly.
 
 3. Samsung Internet
-    * 
+    * All tested and working correctly.
 
 ### Further Testing
 The website was tested on Google Chrome, Firefox, Internet Explorer, Microsoft Edge, Safari and Samsung Internet browsers.
@@ -284,9 +283,6 @@ I tested my website using DevTools Lighthouse feature, and got these results:
 * [Autoprefixer CSS online](https://autoprefixer.github.io/): To aid in the CSS prefixing.
 * ANY CODE I USED FROM OTHER PEOPLE OR SITES AND WHO IT'S FROM, INCLUDING CREDITING ANYONE WHO HELPED ME FIX BUGS
 
-### Audio
-* WHO OWNS THE AUDIO AND WHO EDITED THE AUDIO
-
 ### Content
 * WHO OWNS THE CONTENT OF THE SITE
 
@@ -294,7 +290,6 @@ I tested my website using DevTools Lighthouse feature, and got these results:
 * WHO OWNS ANY MEDIA ON THE SITE, SUCH AS IMAGES AND VIDEOS
 
 ### Acknowledgements
-* My mentor, Antonio Rodriguez, at [Code Institute](https://codeinstitute.net/), for continuous helpful feedback and support.
 * Eve Crabb, for her support through my learning, and for being a sounding board for bug fixes.
 * Tom Crabb, for his advice on how to make my code cleaner.
 * The team at [Code Institute](https://codeinstitute.net/), for teaching me the necessary skills to create this site.
