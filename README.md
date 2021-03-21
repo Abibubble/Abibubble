@@ -10,8 +10,9 @@
 [Here is a link to the final project](https://abibubble.github.io/rodan)
 
 An ecommerce site built for Rodan Sourcing, designed to be fully accessible, and responsive on a wide range of devices, whilst also being easy to navigate through. 
+It is a rustic styled site, with a clean and straightforward look.
 
-![Final project image home page](assets/images/docs/finalpage.png)
+![Final project image home page](assets/docs/finalpage.png)
 
 ## Contents
 
