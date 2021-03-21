@@ -184,20 +184,37 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 
 ### Testing User Stories
 #### Client Goals
-##### GOAL
-* HOW THE SITE COMPLETEES EACH GOAL
+##### Easy to navigate.
+* 
+
+##### Fast route to buy now to maximise profits.
+* 
+
+##### Clean and beautiful rustic-looking site.
+* 
 
 #### First Time Visitor Goals
-##### GOAL
-* HOW THE SITE COMPLETEES EACH GOAL
+##### Easy to navigate.
+* 
+
+##### Easy to find a specific product.
+* 
+
+##### Easy to purchase, no unnecessary steps.
+* 
 
 #### Returning Visitor Goals
-##### GOAL
-* HOW THE SITE COMPLETEES EACH GOAL
+##### Easy to browse specific categories.
+* 
+
+##### Easy to find delivery costs.
+* 
 
 #### Frequent Visitor Goals
-##### GOAL
-* HOW THE SITE COMPLETEES EACH GOAL
+##### Recommended products.
+
+##### Easy to find contact details for queries.
+
 
 ### Full Testing
 [Click here](assets/docs/testing.md) to view the full testing steps that were completed on every device and browser, and screenshots of testing.
