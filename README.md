@@ -26,7 +26,6 @@ It is a rustic styled site, with a clean and straightforward look.
     * [Imagery](#imagery)
     * [Wireframes](#wireframes)
     * [Features](#features)
-    * [Audio](#audio)
 
 * [Technologies Used](#technologies-used)
     * [Languages Used](#languages-used)
@@ -78,12 +77,15 @@ WHAT I WANTED FROM THIS PROJECT
 ---
 ## Design
 ### Color Scheme
+* Brown shades, cream shades, black and white
 * WHAT COLORS USED AND WHY
 
 ### Typography
+* Clean and easy to read, not distracting.
 * WHAT FONT AND WHY
 
 ### Imagery
+* Wood feel, hessian sack, etc.
 * WHAT IMAGES ARE USED AND WHY
 
 ### Wireframes
@@ -91,9 +93,6 @@ WHAT I WANTED FROM THIS PROJECT
 
 ### Features
 * WHAT FEATURES ARE ONE THE SITE, LIKE SCOREBOARD, FUNCTIONS, SCROLLING ALERT BAR, ETC.
-
-### Audio
-* WHAT AUDIO IS USED (IF ANY) AND WHY.
 ---
 
 ## Technologies Used
