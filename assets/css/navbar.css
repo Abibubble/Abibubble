@@ -7,5 +7,10 @@
 
 .navlink {
     text-decoration: none;
-    color: #fff;
+    color: #000;
+}
+
+.search-bar {
+    border-radius: 10px;
+    padding: 5px;
 }
