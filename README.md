@@ -220,9 +220,11 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 
 #### Frequent Visitor Goals
 ##### Recommended products.
+* 
 
 ##### Easy to find contact details for queries.
-
+* On the navigation bar, there is a contact page clearly visible.
+* Via this, the user can find all required contact details.
 
 ### Full Testing
 [Click here](assets/docs/testing.md) to view the full testing steps that were completed on every device and browser, and screenshots of testing.
