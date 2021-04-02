@@ -216,7 +216,8 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 * 
 
 ##### Easy to find delivery costs.
-* 
+* Delivery costs will be clearly visible under every product on the individual product page.
+* In the user's cart, the delivery costs will also be clearly outlined.
 
 #### Frequent Visitor Goals
 ##### Recommended products.
