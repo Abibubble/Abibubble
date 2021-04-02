@@ -101,6 +101,8 @@ and un-branded merchandise for the hospitality industry.
 * Responsive navigation bar
 * Shopping cart
 * Product search bar
+* A pop-up spin wheel to get a discount code
+* A newsletter sign up
 ---
 
 ## Technologies Used
