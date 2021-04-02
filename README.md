@@ -99,7 +99,8 @@ and un-branded merchandise for the hospitality industry.
 
 ### Features
 * Responsive navigation bar
-* WHAT FEATURES ARE ONE THE SITE, LIKE SCOREBOARD, FUNCTIONS, SCROLLING ALERT BAR, ETC.
+* Shopping cart
+* Product search bar
 ---
 
 ## Technologies Used
