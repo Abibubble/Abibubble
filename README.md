@@ -205,7 +205,8 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 * The navigation bar is clean and easy to use, so the user can quickly navigate via category.
 
 ##### Easy to find a specific product.
-* 
+* There is a search bar to search in the site for what the user wants.
+* The navigation bar is clean and easy to use, so the user can quickly navigate via category.
 
 ##### Easy to purchase, no unnecessary steps.
 * 
