@@ -85,7 +85,6 @@ and un-branded merchandise for the hospitality industry.
 ## Design
 ### Color Scheme
 * Brown shades, cream shades, black and white
-* WHAT COLORS USED AND WHY
 
 ### Typography
 * Clean and easy to read, not distracting.
