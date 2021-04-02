@@ -1,4 +1,4 @@
-# Rodan Sourcing
+# Catermerch
 
 ![GitHub contributors](https://img.shields.io/github/contributors/abibubble/rodan)
 ![GitHub last commit](https://img.shields.io/github/last-commit/abibubble/rodan)
@@ -9,7 +9,7 @@
 
 [Here is a link to the final project](https://abibubble.github.io/rodan)
 
-An ecommerce site built for Rodan Sourcing, designed to be fully accessible, and responsive on a wide range of devices, whilst also being easy to navigate through. 
+An ecommerce site built for Catermerch, designed to be fully accessible, and responsive on a wide range of devices, whilst also being easy to navigate through. 
 It is a rustic styled site, with a clean and straightforward look.
 
 ![Final project image home page](assets/docs/finalpage.png)
@@ -59,7 +59,8 @@ It is a rustic styled site, with a clean and straightforward look.
 ---
 ## User Experience (UX)
 ### Initial Discussion
-The initial conversation for this site was a request for a clean, simple, beautiful ecommerce site with top performance and good SEO.
+The initial conversation for this site was a request for a clean, simple, beautiful ecommerce site with top performance and good SEO. It will be selling branded 
+and un-branded merchandise for the hospitality industry.
 
 ### User Stories
 #### Client Goals
