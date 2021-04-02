@@ -324,7 +324,7 @@ I tested my website using DevTools Lighthouse feature, and got these results:
 * WHO OWNS ANY MEDIA ON THE SITE, SUCH AS IMAGES AND VIDEOS
 
 ### Acknowledgements
-* Eve Crabb, for her support through my learning, and for being a sounding board for bug fixes.
-* Tom Crabb, for his advice on how to make my code cleaner.
+* [Eve Crabb](https://github.com/evecrabb), for her support through my learning, and for being a sounding board for bug fixes.
+* [Tom Crabb](https://github.com/tomcrabb), for his advice on how to make my code cleaner.
 * The team at [Code Institute](https://codeinstitute.net/), for teaching me the necessary skills to create this site.
 * Conor Nye for his continuous support throughout my coding journey.
