@@ -213,7 +213,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 
 #### Returning Visitor Goals
 ##### Easy to browse specific categories.
-* 
+* The navigation bar is clean and easy to use, so the user can quickly navigate via category.
 
 ##### Easy to find delivery costs.
 * Delivery costs will be clearly visible under every product on the individual product page.
