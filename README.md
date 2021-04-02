@@ -188,7 +188,9 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 ### Testing User Stories
 #### Client Goals
 ##### Easy to navigate.
-* 
+* The front page will have featured products listed on it.
+* There is a search bar to search in the site for what the user wants.
+* The navigation bar is clean and easy to use, so the user can quickly navigate via category.
 
 ##### Fast route to buy now to maximise profits.
 * 
