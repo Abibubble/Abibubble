@@ -154,3 +154,19 @@ footer {
 .privacy {
     margin: auto;
 }
+
+/* ------------------------------------------------------------------------------------- 404 */
+
+.oops-404 {
+    height: fit-content;
+}
+
+.image-404 {
+    width: 40%;
+}
+
+.button-404 {
+    font-size: 200%;
+    box-shadow: 2px 2px 2px black;
+    cursor: pointer;
+}
