@@ -37,10 +37,7 @@ I began learning French, and I enrolled in a 5 day Coding Challenge from [Code I
 
 ## Contacts
 
-<div>
-<a href="https://www.linkedin.com/in/abi-harrison333"><img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a>
-<a href="mailto:abi.harrison333@gmail.com"><img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
- </div>
+<a href="https://www.linkedin.com/in/abi-harrison333"><img height="45" widht="45" src="https://github.com/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a> <a href="mailto:abi.harrison333@gmail.com"><img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
 
 ## Credits
 
