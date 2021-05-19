@@ -14,7 +14,7 @@ Before discovering the world of coding, I was a Driving Instructor and Restauran
 
 - ### **My Stack**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" height="50px" widht="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code logo" height="50px" widht="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" height="50px" width="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code logo" height="50px" width="50px" />
 
 - ### **Learning in progress**         
 
@@ -31,12 +31,12 @@ Before discovering the world of coding, I was a Driving Instructor and Restauran
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abibubble&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contacts
+## Contact me
 
-<a href="https://www.linkedin.com/in/abi-harrison333"><img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a> <a href="mailto:abi.harrison333@gmail.com">:email:</a>
+<a href="https://www.linkedin.com/in/abi-harrison333"><img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a> <a href="mailto:abi.harrison333@gmail.com"><img height="50px" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
 
 ## Credits
 
-* [devicon](https://github.com/devicons) for the icons.
+* [devicon](https://github.com/devicons) and [Terence Eden & co](https://github.com/edent/SuperTinyIcons) for the icons.
 * [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats.
 * [Claire Lemonnier](https://github.com/lemocla) for the inspiration.
