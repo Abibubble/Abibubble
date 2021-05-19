@@ -6,11 +6,9 @@ Hi there,
 
 I'm Abi, a Junior Developer from London, UK.
 
-I'm currently studying [Code Institute](https://codeinstitute.net/)'s Full Stack Web Developer course, and working as a Junior Developer with giffgaff, a UK-based mobile company.
+I'm currently studying [Code Institute](https://codeinstitute.net/)'s Full Stack Web Developer course, and working as a Junior Developer with [giffgaff](https://www.giffgaff.com), a UK-based mobile company.
 
-Before discovering the world of coding, I was a Driving Instructor and Restaurant Manager. Unfortunately when Covid-19 hit the world, these industries were hit hard, and I found myself at home, bored. I'm not a fan of being bored, so I began learning.
-
-I began learning French, and I enrolled in a 5 day Coding Challenge from [Code Institute](https://codeinstitute.net/), thinking that if I didn't enjoy it, it was only 5 days of my life. How wrong I was! I quickly fell in love with coding, and enrolled on [Code Institute](https://codeinstitute.net/)'s Full Stack Developer course, where every day is a chance to learn something new.
+Before discovering the world of coding, I was a Driving Instructor and Restaurant Manager. Whilst stuck at home during lockdowns, I enrolled in a 5 day Coding Challenge from [Code Institute](https://codeinstitute.net/), thinking that if I didn't enjoy it, it was only 5 days of my life. How wrong I was! I quickly fell in love with coding, and enrolled on [Code Institute](https://codeinstitute.net/)'s Full Stack Developer course, where every day is a chance to learn something new.
 
 ## Stack 
 
