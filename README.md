@@ -12,35 +12,52 @@ Before discovering the world of coding, I was a Driving Instructor and Restauran
 
 I began learning French, and I enrolled in a 5 day Coding Challenge from [Code Institute](https://codeinstitute.net/), thinking that if I didn't enjoy it, it was only 5 days of my life. How wrong I was! I quickly fell in love with coding, and enrolled on [Code Institute](https://codeinstitute.net/)'s Full Stack Developer course, where every day is a chance to learn something new.
 
-
-<img align="right" alt="test" src="images/undraw_remotely_2j6y.png" width="425" height="425" />
-
 ## Stack 
 
 - ### **My stack**
 
-<img height="45" width="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />  <img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" />  <img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" />  <img height="45" widht="45" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" />  <img height="45" widht="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />   <img height="50" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /> <img height="45" widht="45" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" /> 
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" height="50px" widht="50px" />   
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code logo" height="50px" widht="50px" /> 
 
 - ### **Learning in progress**         
 
-  <img height="50" widht="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" />  <img height="50" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />  <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" /> <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" />  <img height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />  <img height="60" widht="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL logo" height="50px" width="50px" />  
+<img src="https://github.com/devicons/devicon/icons/less/less-plain-wordmark.svg" alt="LESS logo" height="50px" width="50px" />
+<img src="https://github.com/devicons/devicon/icons/php/php-original.svg" alt="PHP logo" height="50px" width="50px" />
+<img src="https://github.com/devicons/devicon/icons/sass/sass-original.svg" alt="SASS logo" height="50px" width="50px" />
 
-## Future learning
-    
-   <img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" />    
+## Future learning plans
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />
+<img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" height="50px" width="50px" />
 
 ## GitHub statistics
 
-![Abibubble's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abibubble&show_icons=true&theme=tokyonight&hide=prs) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemocla&layout=compact&theme=tokyonight)](https://github.com/Abibubble/github-readme-stats)
+![Abibubble's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abibubble&show_icons=true&theme=prussian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abibubble&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacts
 
 <div>
-<a href="https://www.linkedin.com/in/abi-harrison333"><img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a> <a href="mailto:abi.harrison333@gmail.com"><img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
+<a href="https://www.linkedin.com/in/abi-harrison333"><img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a>
+<a href="mailto:abi.harrison333@gmail.com"><img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
  </div>
 
 ## Credits
 
-Thank you [Terence Eden & co](https://github.com/edent/SuperTinyIcons) and [devicon](https://github.com/devicons) for the icons, [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats and [Claire Lemonnier](https://github.com/lemocla) for inspiring me to build my GitHub Profile.
+* [devicon](https://github.com/devicons) for the icons.
+* [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats.
+* [Claire Lemonnier](https://github.com/lemocla) for the inspiration.
