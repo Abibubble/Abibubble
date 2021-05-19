@@ -33,7 +33,7 @@ Before discovering the world of coding, I was a Driving Instructor and Restauran
 
 ## Contacts
 
-<a href="https://www.linkedin.com/in/abi-harrison333"><img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" /></a> <a href="mailto:abi.harrison333@gmail.com"><img height="50px" widht="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
+<a href="https://www.linkedin.com/in/abi-harrison333"><img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a> <a href="mailto:abi.harrison333@gmail.com">:email:</a>
 
 ## Credits
 
