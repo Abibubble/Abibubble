@@ -20,14 +20,14 @@ I began learning French, and I enrolled in a 5 day Coding Challenge from [Code I
 
 - ### **Learning in progress**         
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL logo" height="50px" width="50px" />   <img src="https://github.com/devicons/devicon/icons/less/less-plain-wordmark.svg" alt="LESS logo" height="50px" width="50px" /> <img src="https://github.com/devicons/devicon/icons/php/php-original.svg" alt="PHP logo" height="50px" width="50px" /> <img src="https://github.com/devicons/devicon/icons/sass/sass-original.svg" alt="SASS logo" height="50px" width="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL logo" height="50px" width="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="LESS logo" height="50px" width="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" height="50px" width="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS logo" height="50px" width="50px" />
 
 ## Future learning plans
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />
-<img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" height="50px" width="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" height="50px" width="50px" />
 
 ## GitHub statistics
 
@@ -37,7 +37,7 @@ I began learning French, and I enrolled in a 5 day Coding Challenge from [Code I
 
 ## Contacts
 
-<a href="https://www.linkedin.com/in/abi-harrison333"><img height="45" widht="45" src="https://github.com/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a> <a href="mailto:abi.harrison333@gmail.com"><img height="45" widht="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
+<a href="https://www.linkedin.com/in/abi-harrison333"><img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" /></a> <a href="mailto:abi.harrison333@gmail.com"><img height="50px" widht="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
 
 ## Credits
 
