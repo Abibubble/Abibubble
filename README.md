@@ -52,9 +52,7 @@ I love Hackathons, so if you connect with me on [LinkedIn](https://www.linkedin.
 
 ## GitHub statistics
 
-![Abibubble's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abibubble&show_icons=true&theme=onedark&card_width=500)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abibubble&hide=html&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Abibubble's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abibubble&show_icons=true&theme=onedark&card_width=150) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abibubble&hide=html&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub trophies
 
