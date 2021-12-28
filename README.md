@@ -1,27 +1,50 @@
+# Abibubble
+
 ![banner](images/banner.jpeg)
 
-# About me
+## About me
 
 Hi there,
 
-I'm Abi, a trombonist from London, UK. I'm a Software Development Engineer in the Front End Core Services Team with [giffgaff](https://www.giffgaff.com), a UK-based mobile company.
+I'm Abi, a trombonist from London, UK, and a Software Development Engineer in the Front End Core Services Team with [giffgaff](https://www.giffgaff.com), a UK-based mobile company. In November 2021, I completed a Diploma in Fullstack Software Development with [Code Institute](https://codeinstitute.net/), and was awarded a merit. Any repo I have that starts with `MS` are my assessed projects from the course, feel free to take a look.
 
-Before discovering the world of coding, I was a Driving Instructor and Restaurant Manager. Whilst stuck at home during lockdowns, I enrolled in a 5 day Coding Challenge from [Code Institute](https://codeinstitute.net/), thinking that if I didn't enjoy it, it was only 5 days of my life. How wrong I was! I quickly fell in love with coding, and enrolled on [Code Institute](https://codeinstitute.net/)'s Full Stack Developer course, which is where my journey began.
+In my coding journey so far, I've discovered the world of the accessible web - A must for any developer! I love learning about how to code for those with accessibility requirements, and teaching others the things that I've learnt. If you're interested, feel free to take a look at [a webinar I presented about the basics of accessibility and meta tags](https://www.youtube.com/watch?v=t-4qqmikIqk), or [a blog post I wrote about accessible buttons](https://www.giffgaff.io/inclusion/the-wonderful-world-of-accessible-buttons). I've also written a blog post about the [Top Fullstack Developer Tools](https://codeinstitute.net/blog/the-top-full-stack-developer-tools/) for [Code Institute](https://codeinstitute.net/).
 
-## Stack 
+I love Hackathons, so if you connect with me on [LinkedIn](https://www.linkedin.com/in/abi-harrison333), you'll find roughly monthly posts about my latest Hackathon projects. It's a wonderful time to work as a team, learn new things, and create something awesome at the end of the weekend.
 
-- ### **My Stack**
+---
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" height="50px" width="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code logo" height="50px" width="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask logo" width="50px" height="50px" />
+### Stack
 
-- ### **Learning in progress**         
+#### **Frontend**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS logo" height="50px" width="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="LESS logo" height="50px" width="50px" />
+![HTML5](images/html5.svg) ![CSS3](images/css3.svg) ![SASS](images/sass.svg) ![JavaScript](images/javascript.svg) ![React](images/react.svg) ![Hugo](images/hugo.svg) ![JSON](images/json.svg) ![Bootstrap](images/bootstrap.svg)
 
-- ### **Future learning plans**
+#### **Backend**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL logo" height="50px" width="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" height="50px" width="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular logo" width="50px" height="50px" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" height="50px" width="50px" />
+![Strapi](images/strapi.svg) ![Python](images/python.svg) ![Flask](images/flask.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg)
+
+#### **Databases**
+
+![MongoDB](images/mongodb.svg) ![MySQL](images/mysql.svg) ![PostgreSQL](images/postgresql.svg)
+
+#### **Development and Deployment**
+
+![Heroku](images/heroku.svg) ![GitHub Pages](images/githubpages.svg) ![Git](images/git.svg) ![GitHub](images/github.svg) ![TravisCI](images/travisci.svg)
+
+---
+
+#### **Learning in progress**
+
+![Amazon AWS](images/amazonaws.svg) ![Less](images/less.svg) ![NextJS](images/nextdotjs.svg) ![NodeJS](images/nodedotjs.svg) ![PHP](images/php.svg)
+
+---
+
+#### **Future learning plans**
+
+![AngularJS](images/angularjs.svg) ![CoffeeScript](images/coffeescript.svg) ![TailwindCSS](images/tailwindcss.svg) ![ThreeJS](images/threedotjs.svg) ![VueJS](images/vuedotjs.svg)
+
+---
 
 ## GitHub statistics
 
@@ -29,10 +52,18 @@ Before discovering the world of coding, I was a Driving Instructor and Restauran
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abibubble&hide=html&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## GitHub trophies
+### GitHub trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abibubble&row=2&column=4&theme=onedark&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
 ## Contact me
 
-<a href="https://www.linkedin.com/in/abi-harrison333"><img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a> <a href="mailto:abi.harrison333@gmail.com"><img height="50px" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
+[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/abi-harrison333)
+
+---
+
+## Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/abibubble/count.svg)
