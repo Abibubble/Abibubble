@@ -31,7 +31,7 @@ Before discovering the world of coding, I was a Driving Instructor and Restauran
 
 ## GitHub trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abibubble&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abibubble&row=2&theme=onedark&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact me
 
