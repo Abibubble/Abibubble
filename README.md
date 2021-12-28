@@ -4,9 +4,7 @@
 
 Hi there,
 
-I'm Abi, a trombonist from London, UK.
-
-I'm a Software Development Engineer in the Front End Core Services Team with [giffgaff](https://www.giffgaff.com), a UK-based mobile company.
+I'm Abi, a trombonist from London, UK. I'm a Software Development Engineer in the Front End Core Services Team with [giffgaff](https://www.giffgaff.com), a UK-based mobile company.
 
 Before discovering the world of coding, I was a Driving Instructor and Restaurant Manager. Whilst stuck at home during lockdowns, I enrolled in a 5 day Coding Challenge from [Code Institute](https://codeinstitute.net/), thinking that if I didn't enjoy it, it was only 5 days of my life. How wrong I was! I quickly fell in love with coding, and enrolled on [Code Institute](https://codeinstitute.net/)'s Full Stack Developer course, which is where my journey began.
 
@@ -30,6 +28,12 @@ Before discovering the world of coding, I was a Driving Instructor and Restauran
 ![Abibubble's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abibubble&show_icons=true&theme=prussian)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abibubble&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abibubble)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abibubble&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact me
 
