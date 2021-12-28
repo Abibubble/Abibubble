@@ -22,7 +22,7 @@ I love Hackathons, so if you connect with me on [LinkedIn](https://www.linkedin.
 
 #### **Backend**
 
-![Strapi](images/strapi.svg) ![Python](images/python.svg) ![Flask](images/flask.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg)
+![Strapi](images/strapi.svg) ![Python](images/python.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg) ![Flask](images/flask.svg)
 
 #### **Databases**
 
@@ -31,6 +31,10 @@ I love Hackathons, so if you connect with me on [LinkedIn](https://www.linkedin.
 #### **Development and Deployment**
 
 ![Heroku](images/heroku.svg) ![GitHub Pages](images/githubpages.svg) ![Git](images/git.svg) ![GitHub](images/github.svg) ![TravisCI](images/travisci.svg)
+
+#### **Testing**
+
+![Django Testing](images/django.svg) ![Jest Testing](images/jest.svg) ![Testing library](images/testinglibrary.svg)
 
 ---
 
@@ -42,7 +46,7 @@ I love Hackathons, so if you connect with me on [LinkedIn](https://www.linkedin.
 
 #### **Future learning plans**
 
-![AngularJS](images/angularjs.svg) ![CoffeeScript](images/coffeescript.svg) ![TailwindCSS](images/tailwindcss.svg) ![ThreeJS](images/threedotjs.svg) ![VueJS](images/vuedotjs.svg)
+![AngularJS](images/angularjs.svg) ![CoffeeScript](images/coffeescript.svg) ![TailwindCSS](images/tailwindcss.svg) ![VueJS](images/vuedotjs.svg)
 
 ---
 
