@@ -46,7 +46,7 @@ I love Hackathons, so if you connect with me on [LinkedIn](https://www.linkedin.
 
 #### **Future learning plans**
 
-![AngularJS](images/angularjs.svg) ![CoffeeScript](images/coffeescript.svg) ![TailwindCSS](images/tailwindcss.svg) ![VueJS](images/vuedotjs.svg)
+![CoffeeScript](images/coffeescript.svg) ![TailwindCSS](images/tailwindcss.svg) ![VueJS](images/vuedotjs.svg)
 
 ---
 
