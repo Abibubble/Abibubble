@@ -30,7 +30,7 @@ I love Hackathons, so if you connect with me on [LinkedIn](https://www.linkedin.
 
 #### **Development and Deployment**
 
-![Heroku](images/heroku.svg) ![GitHub Pages](images/githubpages.svg) ![Git](images/git.svg) ![GitHub](images/github.svg) ![TravisCI](images/travisci.svg)
+![Heroku](images/heroku.svg) ![GitHub Pages](images/githubpages.svg) ![Git](images/git.svg) ![GitHub](images/github.svg) ![TravisCI](images/travisci.svg) ![Jenkins](images/jenkins.svg) ![Docker](images/docker.svg)
 
 #### **Testing**
 
