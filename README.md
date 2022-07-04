@@ -11,8 +11,8 @@ I'm Abi, a trombonist from London in the UK, and a Software Development Engineer
 In my coding journey so far, I've discovered the world of the accessible web - A must for any developer! I love learning about how to code for those with accessibility requirements, and teaching others the things that I've learnt. If you're interested, feel free to take a look at a few of the things I've done:
 - [A webinar I presented about the basics of accessibility and meta tags](https://www.youtube.com/watch?v=t-4qqmikIqk)
 - [A blog post about accessible buttons](https://www.giffgaff.io/inclusion/the-wonderful-world-of-accessible-buttons)
-- [A blog post about Top Fullstack Developer Tools](https://codeinstitute.net/blog/the-top-full-stack-developer-tools/) for [Code Institute](https://codeinstitute.net/).
-- A series of blog posts, called the A11y Series, which I wrote for [Code Institute](https://codeinstitute.net/)
+- [A blog post about Top Fullstack Developer Tools](https://codeinstitute.net/blog/the-top-full-stack-developer-tools/) for [Code Institute](https://codeinstitute.net/)
+- A series of blog posts, called the A11y Series, which I also wrote for [Code Institute](https://codeinstitute.net/):
   - [Accessibility in Code](https://codeinstitute.net/blog/accessibility-in-code/)
   - [Colour & Accessible Websites](https://codeinstitute.net/blog/colour-accessible-websites/)
   - [Alt Text with Images](https://codeinstitute.net/blog/alt-text/)
