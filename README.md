@@ -26,11 +26,11 @@ I love Hackathons, so if you connect with me on [LinkedIn](https://www.linkedin.
 
 #### **Frontend**
 
-![HTML5](images/html5.svg) ![CSS3](images/css3.svg) ![SASS](images/sass.svg) ![JavaScript](images/javascript.svg) ![React](images/react.svg) ![Hugo](images/hugo.svg) ![JSON](images/json.svg) ![Bootstrap](images/bootstrap.svg)
+![HTML5](images/html5.svg) ![CSS3](images/css3.svg) ![SASS](images/sass.svg) ![JavaScript](images/javascript.svg) ![React](images/react.svg) ![Hugo](images/hugo.svg) ![JSON](images/json.svg) ![NextJS](images/nextdotjs.svg) ![Bootstrap](images/bootstrap.svg)
 
 #### **Backend**
 
-![Strapi](images/strapi.svg) ![Python](images/python.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg) ![Flask](images/flask.svg)
+![Strapi](images/strapi.svg) ![Python](images/python.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg) ![Flask](images/flask.svg) ![NodeJS](images/nodedotjs.svg)
 
 #### **Databases**
 
@@ -48,7 +48,7 @@ I love Hackathons, so if you connect with me on [LinkedIn](https://www.linkedin.
 
 #### **Learning in progress**
 
-![NodeJS](images/nodedotjs.svg) ![Less](images/less.svg) ![NextJS](images/nextdotjs.svg) ![Amazon AWS](images/amazonaws.svg)
+![Less](images/less.svg) ![Amazon AWS](images/amazonaws.svg)
 
 ---
 
