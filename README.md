@@ -6,9 +6,9 @@
 
 Hi there,
 
-I'm Abi, a trombonist from London in the UK, and a Software Development Engineer in the Front End Core Services Team with [giffgaff](https://www.giffgaff.com), a UK-based mobile company. In November 2021, I completed a Diploma in Fullstack Software Development with [Code Institute](https://codeinstitute.net/), and was awarded a merit. Any repo I have that starts with `MS` are my assessed projects from the course, feel free to take a look.
+I'm Abi, I live near London in the UK, and I'm a Software Engineer in the Recommendations Experience Team with [giffgaff](https://www.giffgaff.com), a UK-based mobile company. In November 2021, I completed a Diploma in Fullstack Software Development with [Code Institute](https://codeinstitute.net/), and was awarded a merit. Any repo I have that starts with `MS` or `milestone` are my assessed projects from the course, feel free to take a look. In my free time, I love visiting different theme parks, riding rollercoasters, and playing escape rooms.
 
-In my coding journey so far, I've discovered the world of the accessible web - A must for any developer! I love learning about how to code for those with accessibility requirements, and teaching others the things that I've learnt. If you're interested, feel free to take a look at a few of the things I've done:
+In my coding journey so far, I've discovered the world of the accessible web - A must for any developer! I love learning about how to code for those with accessibility requirements and teaching others the things that I've learnt. If you're interested, feel free to take a look at a few of the things I've done:
 - [A webinar I presented about the basics of accessibility and meta tags](https://www.youtube.com/watch?v=t-4qqmikIqk)
 - [A blog post about accessible buttons](https://www.giffgaff.io/inclusion/the-wonderful-world-of-accessible-buttons)
 - [A blog post about Top Fullstack Developer Tools](https://codeinstitute.net/blog/the-top-full-stack-developer-tools/) for [Code Institute](https://codeinstitute.net/)
@@ -30,19 +30,19 @@ I love Hackathons, so if you connect with me on [LinkedIn](https://www.linkedin.
 
 #### **Backend**
 
-![Strapi](images/strapi.svg) ![Python](images/python.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg) ![Flask](images/flask.svg) ![NodeJS](images/nodedotjs.svg)
+![NodeJS](images/nodedotjs.svg) ![Strapi](images/strapi.svg) ![Python](images/python.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg) ![Flask](images/flask.svg)
 
 #### **Databases**
 
-![MongoDB](images/mongodb.svg) ![MySQL](images/mysql.svg) ![PostgreSQL](images/postgresql.svg)
+![PostgreSQL](images/postgresql.svg) ![MySQL](images/mysql.svg) ![MongoDB](images/mongodb.svg)
 
 #### **Development and Deployment**
 
-![Heroku](images/heroku.svg) ![GitHub Pages](images/githubpages.svg) ![Git](images/git.svg) ![GitHub](images/github.svg) ![TravisCI](images/travisci.svg) ![Jenkins](images/jenkins.svg) ![Docker](images/docker.svg)
+![GitHub Pages](images/githubpages.svg) ![Git](images/git.svg) ![GitHub](images/github.svg) ![TravisCI](images/travisci.svg) ![Jenkins](images/jenkins.svg) ![Docker](images/docker.svg) ![Heroku](images/heroku.svg)
 
 #### **Testing**
 
-![Django Testing](images/django.svg) ![Jest Testing](images/jest.svg) ![Testing library](images/testinglibrary.svg)
+![Jest Testing](images/jest.svg) ![Testing library](images/testinglibrary.svg) ![Django Testing](images/django.svg)
 
 ---
 
