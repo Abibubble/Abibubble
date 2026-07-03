@@ -18,18 +18,6 @@ In my coding journey so far, I've discovered the world of the accessible web - A
   - [Alt Text with Images](https://codeinstitute.net/blog/alt-text/)
   - [Semantic HTML](https://codeinstitute.net/blog/semantic-html-accessibility/)
 
-## GitHub statistics
-
-![Abibubble's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abibubble&show_icons=true&theme=onedark&card_width=150) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abibubble&hide=html&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## Contact me
 
 [![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/abi-harrison333)
-
----
-
-## Visitor count
-
-![Visitor Count](https://profile-counter.glitch.me/abibubble/count.svg)
