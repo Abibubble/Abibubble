@@ -1,23 +1,39 @@
 # Abibubble
 
-![banner](images/banner.jpeg)
+![](images/banner.jpeg)
 
 ## About me
 
 Hi there,
 
-I'm Abi, I live near London in the UK, and I'm a Software Engineer in the Devices Team at [giffgaff](https://www.giffgaff.com), a UK-based mobile company. In November 2021, I completed a Diploma in Fullstack Software Development with [Code Institute](https://codeinstitute.net/), and was awarded a merit. In my free time, I love travelling, motorsport, rollercoasters, and escape rooms.
+I'm Abi, a software engineer and accessibility specialist at [giffgaff](https://www.giffgaff.com/), a UK-based mobile company. I live near London, and I work in the Devices Team on the core phones journey, where people choose and buy phones. It's built as micro frontends.
 
-In my coding journey so far, I've discovered the world of the accessible web - A must for any developer! I love learning about how to code for those with accessibility requirements and teaching others the things that I've learnt. If you're interested, feel free to take a look at a few of the things I've done:
-- [giffgaff's Inclusion Toolkit](https://www.giffgaff.com/inclusion-toolkit)
-- [A webinar about giffgaff's accessibility journey, at Lead Dev's LDX3 London](https://leaddev.com/technical-direction/moving-accessibility-from-debt-to-done-at-giffgaff)
-- [A webinar I presented about the basics of accessibility and meta tags](https://www.youtube.com/watch?v=t-4qqmikIqk)
-- [A blog post about Top Fullstack Developer Tools](https://codeinstitute.net/blog/the-top-full-stack-developer-tools/) for [Code Institute](https://codeinstitute.net/)
-- A series of blog posts, called the A11y Series, which I also wrote for [Code Institute](https://codeinstitute.net/):
-  - [Accessibility in Code](https://codeinstitute.net/blog/accessibility-in-code/)
-  - [Colour & Accessible Websites](https://codeinstitute.net/blog/colour-accessible-websites/)
-  - [Alt Text with Images](https://codeinstitute.net/blog/alt-text/)
-  - [Semantic HTML](https://codeinstitute.net/blog/semantic-html-accessibility/)
+I've also looked after giffgaff's design systems. I maintained the legacy SCSS design system, then built its replacement in React and TypeScript. I maintained the new one too, and supported teams as they moved their pages over to it.
+
+## Accessibility
+
+Accessibility matters to me because I never want my code to be the thing that shuts someone out. Whether you're using something I've built, reading something I've written, or listening to one of my talks, you deserve the same great experience as everyone else. For me, it all comes down to equity and fairness.
+
+I'm a trained accessibility auditor, and I help teams across giffgaff build and test products that meet the Web Content Accessibility Guidelines (WCAG).
+
+I also founded and lead HAND (Home of Accessibility and NeuroDiversity), giffgaff's nationally recognised network for accessibility and neurodiversity. In 2026, I was Highly Commended for Network Inspirational Role Model at the Employee Network Awards.
+
+In June 2026, I spoke at LeadDev's LDX3 London, with a talk called [Moving accessibility from debt to done](https://leaddev.com/technical-direction/moving-accessibility-from-debt-to-done-at-giffgaff).
+
+You can find all my talks, articles, and projects on [my website](https://abiharrisonnye.dev).
+
+## Things I've built
+
+- [Inclusion Toolkit](https://inclusiontoolkit.org): free resources about accessibility and neurodiversity
+- [My personal website](https://abiharrisonnye.dev): built with React and TypeScript, prerendered to static HTML, and aiming for WCAG 2.2 AAA
+- [Coaster Ranker](https://abibubble.github.io/coaster-ranker/): an accessible React and TypeScript app for ranking roller coasters
+- [bad-a11y](https://abibubble.github.io/bad-a11y/): a deliberately inaccessible page, to practise finding and fixing accessibility issues
+
+## Away from work
+
+When I'm not coding, you'll probably find me travelling, riding roller coasters, watching motorsport, or trying to escape from an escape room. At home, I have two rescue cats, Crouton and Katsu.
+
+Before tech, I taught people to drive and worked in pubs. I made my career switch with [Code Institute](https://codeinstitute.net/), where I earned a Diploma in Fullstack Software Development with a merit in 2021.
 
 ## Contact me
 
