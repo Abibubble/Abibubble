@@ -1,6 +1,6 @@
 # Abibubble
 
-![](images/banner.jpeg)
+![](images/banner.png)
 
 ## About me
 
